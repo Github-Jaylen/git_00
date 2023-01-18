@@ -2,7 +2,10 @@
 title: "git_00"
 author: "Jaylen Johnson"
 date: "Year 2023"
-output: html_document
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -53,4 +56,19 @@ Had got no business to be there
       "To come and spoil the fun."  
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+So on his Nightmare through the evening fog  
+
+Flits the squab Fiend o'er fen, and lake, and bog;  
+Seeks some love-wilder’d maid with sleep oppress’d,  
+Alights, and grinning sits upon her breast.
+
+…expanded version, titled The Loves of Plants…  
+
+—Such as of late amid the murky sky  
+
+Was mark’d by Fuseli’s poetic eye;  
+Whose daring tints, with Shakspeare’s happiest grace,  
+Gave to the airy phantom form and place.—  
+Back o'er her pillow sinks her blushing head,  
+Her snow-white limbs hang helpless from the bed;  
+Her interrupted heart-pulse swims in death.  
